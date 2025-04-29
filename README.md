@@ -1,6 +1,9 @@
 > Customized code to enable custom font for the theme (and the theme only).
+
 > Inspired by the Minimal Settings different editor font option, and by AnnPpuccin's option that serves options for both editor and preview custom fonts.
+
 > Editing Style Editor profiles for minimal importing AnnPpuccin's code (for preview mode custom font)
+
 > As it inherits Minimal's and AnnPpucin's code, this fork relies on MIT and GPLv3 Licenses.
 
 ---
