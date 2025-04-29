@@ -10,6 +10,10 @@ figure {
 	color:inherit;
 }
 
+  .markdown-preview-view {
+	--font-text: var(--anp-editor-font-rv, var(--font-text-override)), var(--font-text-theme), var(--font-interface);
+  }
+
 .inline-title {
 	padding-top: 16px;
 }
