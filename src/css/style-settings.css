@@ -3,6 +3,33 @@
 name: Minimal
 id: minimal-style
 settings:
+
+	-
+		# Typography :: Font Families (annppuccin)
+
+	-
+		id: anp-font-families-header
+		title: Font Families
+		description: 
+		type: heading
+		level: 2
+		collapsed: true
+	-
+		id: anp-editor-font-source
+		title: Source Editor Font
+		type: variable-text
+		default: Iosevka Comfy Duo
+	-
+		id: anp-editor-font-lp
+		title: Live Preview Editor Font
+		type: variable-text
+		default: Noto Sans
+	-
+		id: anp-editor-font-rv
+		title: Reading View Editor Font
+		type: variable-text
+		default: Noto Sans
+
 	-
 		id: instructions
 		title: Documentation
